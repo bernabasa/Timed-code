@@ -51,7 +51,7 @@ var questions = [
                 35,
                 54,
                 60],
-        answer: "54"
+        answer: 54
     },
 ];
 

@@ -1,8 +1,8 @@
 :root {
-    --primary-color: #464646;
-    --secondary-color: #597885;
-    --tertiary-color: #18191a;
-    --quaternary-color: #1f2122;
+    --primary-color: #383131;
+    --secondary-color: #41b8f3;
+    --tertiary-color: #acbd71;
+    --quaternary-color: #99a168;
 }
 
 * {
@@ -86,7 +86,7 @@ a:hover {
 
 .timer {
     font-weight: bold;
-    text-align: center;
+    text-align: right;
     font-size: 20px;
     padding: 20px 20px;
 }
