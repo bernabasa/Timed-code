@@ -1,45 +1,57 @@
 // question array, questions as objects
 var questions = [
     {
-        title: "Which is NOT a way to declare a JavaScript variable?",
-        choices: ["var",
-        "let",
-        "def",
-        "const"],
-        answer: "def"
+        title: "Which one of this countires where never colonized?",
+        choices: ["South Africa",
+        "Keneya",
+        "Uganda",
+        "Ethiopia"],
+        answer: "Ethiopia"
     },
 
     {
-        title: "What are values associated with objects called?",
-        choices: ["value", "properties", "set", "data"],
-        answer: "properties"
+        title: "Where is the pyramid of giza located?",
+        choices: ["Egypt", 
+         "Sudan",
+         "Ethiopia",
+         "Congo"],
+        answer: "Egypt"
     },
 
     {
-        title: "Which of the following is NOT a primitve value in JavaScript?",
-        choices: ["Boolean", "Number", "Text", "BigInt"],
-        answer: "Text"
+        title: "The capital of Togo is?",
+        choices: ["Lagos",
+            "Asmera",
+            "Addis Abeba", 
+            "Lome"],
+        answer: "Lome"
     },
 
     {
-        title: "Which comparison operator means 'Not Equal Value OR Equal Type'?",
-        choices: ["==", "!=", "<=", "!=="],
-        answer: "!=="
+        title: "Where is the Nubian Desert?",
+        choices: ["Ghana",
+         "Kenya", 
+         "Sudan", 
+         "Morroco"],
+        answer: "Sudan"
     },
 
     {
-        title: "Which is NOT a valid loop in JavaScript?",
-        choices: ["for/while", "while", "for", "do/while"],
-        answer: "for/while"
+        title: "What is Nigeria's main export?",
+        choices: ["Gold",
+         "Coffee", 
+         "Oil",
+         "Wheat"],
+        answer: "Oil"
     },
 
     {
-        title: "Where is the correct placement for a link to an external JavaScript sheet?",
-        choices: ["In the <head> section",
-        "After the <body> section",
-        "At the end of the <body> section",
-        "None of the above"],
-        answer: "At the end of the <body> section"
+        title: "How many countires are in Africa?",
+        choices: [40,
+                35,
+                54,
+                60],
+        answer: "54"
     },
 ];
 
